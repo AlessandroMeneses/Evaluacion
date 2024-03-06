@@ -2189,4 +2189,7 @@ input, select, textarea {
 			}
 
 		}
-
+#enviar{
+	color: white;
+	text-decoration: none;
+}
